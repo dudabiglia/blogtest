@@ -1,0 +1,21 @@
+# Site title, description and author live in _data/settings.yml
+# (editable from Pages CMS under "Settings").
+
+# Leave empty if the site is at https://<user>.github.io/
+# Set to "/repo-name" if it's at https://<user>.github.io/repo-name/
+baseurl: ""
+url: ""
+
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - .pages.yml
