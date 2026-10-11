@@ -1,25 +1,26 @@
 ---
-title: Testando o blog
+title: Bohemian Rhapsody
 date: 2026-10-11
 ---
-## Hoje é o grande dia
+## Mama, just killed a man...
 
-How can you see into my eyes
+Put a gun against his head, pulled my trigger now he's dead
 
-- Hello, it's me
-- How can you **see into my eyes**
-  ![](/assets/images/How-to-Make-Minimalistic-Line-Drawings-in-Illustrator.webp)
+- Mama, life has just began
+- But now I've gone and thrown it all away
 
-
-| Testando | Valor |
-| -------- | -------- |
-| hello | 23934 |
-| it's me | 39483894 |
+![](/assets/images/How-to-Make-Minimalistic-Line-Drawings-in-Illustrator.webp)
 
 
-> Stop calling, I don't want to talk anymore
+| Bohemian | Rhapsody |
+| --------------------------- | -------------------------- |
+| Too late | My time has come |
+| Sends shivers down my spine | Body's aching all the time |
+
+
+> Good bye everybody I've got to go
 
 ```
-<html>hello world</html>
+<html>Freddie Mercury</html>
 ```
 
